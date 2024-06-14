@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/FreshCart/static/css/main.d05579d5.css",
+    "main.js": "/FreshCart/static/js/main.96830bf2.js",
+    "static/js/592.7ae711f1.chunk.js": "/FreshCart/static/js/592.7ae711f1.chunk.js",
+    "static/media/light-patten.svg": "/FreshCart/static/media/light-patten.ed706aff39a009de4e80.svg",
+    "static/media/slider1.png": "/FreshCart/static/media/slider1.860e420bf177333981ac.png",
+    "static/media/slider4.png": "/FreshCart/static/media/slider4.2acfbfb197ea9ce40bff.png",
+    "static/media/slider2.png": "/FreshCart/static/media/slider2.d8676ba52f7250332261.png",
+    "static/media/slider1-small.png": "/FreshCart/static/media/slider1-small.162c46be44f2a69ad491.png",
+    "static/media/slider4-small.png": "/FreshCart/static/media/slider4-small.e6892c06ecc28b26308c.png",
+    "static/media/slider2-small.png": "/FreshCart/static/media/slider2-small.bd0b85f46cb894123f59.png",
+    "static/media/slider3.png": "/FreshCart/static/media/slider3.28dd6c841fae0c6901ab.png",
+    "static/media/slider3-small.png": "/FreshCart/static/media/slider3-small.bf277b70884e8182e535.png",
+    "static/media/error.svg": "/FreshCart/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/freshcart-logo.svg": "/FreshCart/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/slick.svg": "/FreshCart/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FreshCart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FreshCart/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FreshCart/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FreshCart/index.html",
+    "main.d05579d5.css.map": "/FreshCart/static/css/main.d05579d5.css.map",
+    "main.96830bf2.js.map": "/FreshCart/static/js/main.96830bf2.js.map",
+    "592.7ae711f1.chunk.js.map": "/FreshCart/static/js/592.7ae711f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d05579d5.css",
+    "static/js/main.96830bf2.js"
+  ]
+}
